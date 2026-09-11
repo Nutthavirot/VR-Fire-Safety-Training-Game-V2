@@ -5,7 +5,6 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-
 .vs/
 .idea/
 
@@ -13,5 +12,20 @@
 *.sln
 *.user
 *.userprefs
-
 .DS_Store
+
+# Unity generated files
+.utmp/
+[Bb]urst[Dd]ebug[Ii]nformation*/
+[Bb]urst[Dd]ebug[Ii]nformation_DoNotShip/
+
+# Unity generated/build files
+.utmp/
+[Bb]urst[Dd]ebug[Ii]nformation*/
+[Bb]urst[Dd]ebug[Ii]nformation_DoNotShip/
+
+# Build output
+testgame/
+
+# Visual Studio generated solution
+*.slnx
